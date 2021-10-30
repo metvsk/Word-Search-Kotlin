@@ -1,1 +1,1 @@
-<img src="app/src/main/res/drawable/icon.xml" width=100/>
+<img src="app/src/main/res/drawable/icon.xml"/>
