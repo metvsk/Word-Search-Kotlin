@@ -8,7 +8,7 @@ import com.chillandcode.wordsearch_kotlin.databinding.ActivityMainBinding
 import com.chillandcode.wordsearch_kotlin.databinding.WordDetailsBinding
 
 class DetailActivity:AppCompatActivity() {
-    companion object {
+    companion object {//similar to static class
         const val LETTER = "letter"
         const val SEARCH_PREFIX = "https://www.google.com/search?q="
     }
