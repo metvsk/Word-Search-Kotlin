@@ -23,7 +23,6 @@ class DetailActivity:AppCompatActivity() {
         binding.detailWordsRecyclerView.adapter=WordAdapter(letterId,this)
         binding.detailWordsRecyclerView.addItemDecoration((DividerItemDecoration(this,DividerItemDecoration.VERTICAL)))
         title=getString(R.string.detail_prefix)+" "+letterId
-
     }
 
 }

@@ -1,0 +1,1 @@
+<img src="app/src/main/res/drawable/icon.xml" width=100/>
